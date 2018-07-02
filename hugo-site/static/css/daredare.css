@@ -3,6 +3,9 @@
 .header {
   margin-top: 4rem;
 }
+.content {
+  margin-top: 2rem;
+}
 
 /* Larger than phone */
 @media (min-width: 550px) {

@@ -33,7 +33,19 @@
     <section class="header">
       <h1 class="title">Dare Dare<h1>
     </section>
-    {{ .Content }}
+    <div class="navbar-spacer"></div>
+    <nav class="navbar">
+        <div class="container">
+            <ul class="navbar-list">
+            {{ range .Site.RegularPages }}
+                {{ if eq .Type "posts" }}
+                <li class="navbar-item"><a class="navbar-link" href="{{.Permalink}}">{{.Title}}</a></li>
+                {{ end }}
+            {{ end }}
+            </ul>
+        </div>
+    </nav>
+    {{ block "main" . }}{{end}}
   </div>
 
 <!-- End Document
