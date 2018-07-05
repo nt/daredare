@@ -26,7 +26,3 @@ At sea equipement failure might prevent us from updating the email group or the
 tracker and this is perfectly normal. Absence of communication simply means we
 might have lost our ability to communicate. The most recent and frequent updates
 can be found on the Pacific Cup website.
-
-### Where is Dare Dare?
-
-

@@ -1,5 +1,5 @@
 ---
-title: "Where Is Daredare"
+title: "Where Is Dare Dare"
 date: 2018-07-02T13:36:49-07:00
 draft: true
 ---
