@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dare Dare sails the Pacific</title>
+    <link>http://daredare.org/</link>
+    <description>Recent content on Dare Dare sails the Pacific</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jul 2018 10:52:13 -0700</lastBuildDate>
+    
+	<atom:link href="http://daredare.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pictures</title>
+      <link>http://daredare.org/posts/instagram.html</link>
+      <pubDate>Wed, 04 Jul 2018 10:52:13 -0700</pubDate>
+      
+      <guid>http://daredare.org/posts/instagram.html</guid>
+      <description>Instagram Follow us on Instagram: iamdaredare, clarasf and nicothieb.</description>
+    </item>
+    
+    <item>
+      <title>Where Is Dare Dare</title>
+      <link>http://daredare.org/posts/where-is-daredare.html</link>
+      <pubDate>Mon, 02 Jul 2018 13:36:49 -0700</pubDate>
+      
+      <guid>http://daredare.org/posts/where-is-daredare.html</guid>
+      <description>Where is Dare Dare ? Pacific Cup tracker The best way to track our position and that of our competition during the race is on the race tracker.
+  Direct link: https://pacificcup.org/tracking.html
+Dare Dare Garmin tracker This tracker is a backup device we will be using during the race. We will configure it to update our location every 4 hours. This method might fail if we forget to charge the battery for the tracker so do not worry if it does not update!</description>
+    </item>
+    
+    <item>
+      <title>Pacific Cup</title>
+      <link>http://daredare.org/posts/paccup.html</link>
+      <pubDate>Mon, 02 Jul 2018 10:52:13 -0700</pubDate>
+      
+      <guid>http://daredare.org/posts/paccup.html</guid>
+      <description>2018 Pacific Cup We are racing in the 2018 Pacific Cup. All information regarding the race can be found on the race&amp;rsquo;s website: https://pacificcup.org/.
+The crew Nicolas Thiebaud Skipper.
+ Hannah Droesbeke Navigator.
+ Clara Cambon-Thiebaud Pit, heatlh &amp;amp; safety, medic.
+ Remi Trang Trim &amp;amp; sail repairs. Freeze dried chef.
+ Thibault Poisson Watch captain. VP of chic.
+  Media  Official race guide Pacific Cup 2018 Preview in Latitude 38  Communication and news While offshore, access to internet is very limited.</description>
+    </item>
+    
+  </channel>
+</rss>

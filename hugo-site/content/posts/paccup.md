@@ -8,6 +8,52 @@ date: 2018-07-02T10:52:13-07:00
 We are racing in the 2018 Pacific Cup. All information regarding the race can be
 found on the race's website: [https://pacificcup.org/](https://pacificcup.org/).
 
+### The crew
+
+{{%row%}}
+{{%col%}}
+#### Nicolas Thiebaud
+
+Skipper.
+
+![nicolas](/images/nicolas.jpg)
+{{%/col%}}
+{{%col%}}
+#### Hannah Droesbeke
+
+Navigator.
+
+![hannah](/images/hannah.jpg)
+{{%/col%}}
+
+{{%col%}}
+#### Clara Cambon-Thiebaud
+
+Pit, health & safety, medic.
+
+![clara](/images/clara.jpg)
+{{%/col%}}
+{{%col%}}
+#### Remi Trang
+
+Trim & sail repairs. Freeze dried chef.
+
+![remi](/images/remi.jpg)
+{{%/col%}}
+{{%col%}}
+#### Thibault Poisson
+
+Watch captain. VP of chic.
+
+![thibault](/images/thibault.jpg)
+{{%/col%}}
+{{%/row%}}
+
+### Media
+
+- [Official race guide](https://issuu.com/paccup/docs/pacific_cup_2018-14-final)
+- [Pacific Cup 2018 Preview in Latitude 38](https://issuu.com/latitude38/docs/l38201807/100)
+
 ### Communication and news
 
 While offshore, access to internet is very limited. We use [Iridium Go](https://www.iridium.com/products/iridium-go/)

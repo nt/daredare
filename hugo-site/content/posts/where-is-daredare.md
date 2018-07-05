@@ -1,7 +1,6 @@
 ---
 title: "Where Is Dare Dare"
 date: 2018-07-02T13:36:49-07:00
-draft: true
 ---
 
 ## Where is Dare Dare ?
@@ -9,8 +8,11 @@ draft: true
 ### Pacific Cup tracker
 
 The best way to track our position and that of our competition during the race
-is on the race tracker. The link has not been published yet but should be
-available here: [https://pacificcup.org/tracklinks.html](https://pacificcup.org/tracklinks.html)
+is on the race tracker.
+
+{{<tracker>}}
+
+Direct link: https://pacificcup.org/tracking.html
 
 ### Dare Dare Garmin tracker
 
@@ -21,4 +23,4 @@ update!
 
 {{< garmin >}}
 
-Direct link: (http://share.garmin.com/daredare)[http://share.garmin.com/daredare]
+Direct link: http://share.garmin.com/daredare
